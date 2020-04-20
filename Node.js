@@ -4,14 +4,12 @@ console.log(name)
 name = "Smith"
 console.log(name)
 
-const age = 16
+const age = "Age: 16"
 console.log(age)
 
-age = 17
+let gender = "Gender: Boy"
+console.log(gender)
+
+console.log(name)
+console.log(gender)
 console.log(age)
-
-const gender = "Boy"
-console.log(gender)
-
-gender = "Girl"
-console.log(gender)
