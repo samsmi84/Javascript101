@@ -7,7 +7,7 @@ console.log(name2)
 const age = "Age: 16"
 console.log(age)
 
-let gender = "Gender: Boy"
+let gender = "Gender: Male"
 console.log(gender)
 
 console.log(name1)
