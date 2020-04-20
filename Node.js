@@ -9,3 +9,9 @@ console.log(age)
 
 age = 17
 console.log(age)
+
+const gender = "Boy"
+console.log(gender)
+
+gender = "Girl"
+console.log(gender)
